@@ -5,7 +5,7 @@ Web application for furniture e-commerce with admin managment
 
 ## Technologies
 - HTML, CSS, JavaScript
-- PHP / Node.js (selon ton projet)
+- PHP 
 - MySQL
 
 ## Actors
