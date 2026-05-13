@@ -1,4 +1,4 @@
-# e-commerce-web Application
+# e-commerce web Application
 
 ## Description
 Web application for furniture e-commerce with admin managment
